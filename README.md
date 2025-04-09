@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **filipjevtic46@gmail.com**
 
-- 📄 Know about my experiences [filipjevtic.netlify.app](filipjevtic.netlify.app)
+- 📄 Know about my experiences [filipjevtic.netlify.app](https://filipjevtic.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
